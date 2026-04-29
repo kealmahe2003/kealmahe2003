@@ -64,7 +64,7 @@ Git, GitHub, Postman, Jira, Figma
 
 ## 🚀 Actualmente
 
-* Desarrollo de plataforma ecommerce en producción
+* Desarrollo de plataforma ecommerce en producción - https://kealmahe2003.github.io/ecommerce-frenchiecases-demo/
 * Preparando despliegue de sistema POS
 * Construcción de portafolio enfocado en sistemas reales
 
