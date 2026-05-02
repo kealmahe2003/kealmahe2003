@@ -12,6 +12,7 @@
     <img src="https://img.shields.io/badge/GitHub-kealmahe2003-181717?style=flat&logo=github&logoColor=white" />
   </a>
 </p>
+
 ---
  
 Desarrollador Full Stack enfocado en la construcción de soluciones reales orientadas a negocio, con experiencia en sistemas en producción y modernización de procesos operativos. Me especializo en cerrar la brecha entre las necesidades del negocio y las soluciones tecnológicas: desde el levantamiento de requerimientos hasta el despliegue en producción.
