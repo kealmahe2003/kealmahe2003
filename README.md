@@ -124,20 +124,18 @@ Sistema de punto de venta desarrollado a medida para una cafetería/restaurante,
  
 ## 📊 Actividad en GitHub
 
- <p align="center">
-  <a href="https://github.com/kealmahe2003">
-    <img src="https://img.shields.io/github/followers/kealmahe2003?label=Seguidores&style=flat&logo=github&color=0891b2" />
-  </a>
-  <img src="https://img.shields.io/github/stars/kealmahe2003?label=Estrellas%20totales&style=flat&logo=github&color=0891b2&affiliations=OWNER" />
-  <img src="https://komarev.com/ghpvc/?username=kealmahe2003&label=Visitas%20al%20perfil&color=0891b2&style=flat" />
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kealmahe2003&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kealmahe2003&show_icons=true&theme=tokyonight&cache_seconds=7200" alt="GitHub Stats" />
-  &nbsp;
+ </p>
+
+ <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kealmahe2003&layout=compact&theme=tokyonight&cache_seconds=7200" alt="Top Languages" />
 </p>
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=kealmahe2003&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
