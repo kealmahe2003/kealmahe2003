@@ -49,7 +49,7 @@ E-commerce completo para una tienda real de accesorios móviles, con arquitectur
 - Control de stock con descuento atómico (transacciones Prisma)
 - Panel de pedidos admin con gestión de estados (pending → delivered)
 - SEO dinámico por producto (metadata, Open Graph) y Google Analytics 4
-🔗 [frenchiecases.vercel.app](https://frenchiecases.vercel.app)
+- 🔗 [frenchiecases.vercel.app](https://frenchiecases.vercel.app)
  
 ---
  
