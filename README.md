@@ -125,12 +125,14 @@ Sistema de punto de venta desarrollado a medida para una cafetería/restaurante,
 ## 📊 Actividad en GitHub
  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kealmahe2003&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kealmahe2003&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kealmahe2003&show_icons=true&theme=tokyonight&cache_seconds=7200" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kealmahe2003&layout=compact&theme=tokyonight&cache_seconds=7200" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kealmahe2003&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kealmahe2003&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
+
 ---
  
 ## 📫 Contacto
