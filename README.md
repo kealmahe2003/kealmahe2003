@@ -34,6 +34,7 @@ Desarrollador Full Stack enfocado en la construcción de soluciones reales orien
 > `React` · `Node.js` · `Express` · `PostgreSQL` · `Scrum`
  
 **CONTEXTO**
+
 El negocio tomaba sus pedidos de forma manual, en comandas de papel. Las comandas podían extraviarse, lo que causaba pedidos no entregados, y al cierre de turno se presentaban descuadres de caja por pedidos que no quedaban registrados. 
 
  
@@ -44,6 +45,7 @@ El negocio tomaba sus pedidos de forma manual, en comandas de papel. Las comanda
 - Soporte, corrección de incidencias y desarrollo de mejoras continuas en producción. 
 
 **RESULTADO**
+
 El sistema reemplazó las comandas en papel, con lo que cada pedido queda registrado y ya no se pierden ni se dejan de entregar. Desde su puesta en marcha ha registrado más de 2.200 ventas sin interrupciones.
 
 > ⚠️ Proyecto no público por uso en entorno real de producción. Documentado mediante demostraciones, capturas y descripciones técnicas.
