@@ -29,29 +29,6 @@ Desarrollador Full Stack enfocado en la construcción de soluciones reales orien
  
 ## 🚀 Proyectos destacados
  
-### 🛍️ Frenchie Cases — E-commerce de accesorios móviles
-> `Next.js` · `Node.js` · `Express` · `PostgreSQL` · `Prisma` · `Tailwind CSS` · `MercadoPago` · `Vercel` · `Railway`
- 
-E-commerce completo para una tienda real de accesorios móviles, con arquitectura desacoplada (frontend/backend independientes) desplegado en producción.
- 
-**MVP en producción:**
-- Catálogo con filtro dinámico por dispositivo compatible (iPhone, Samsung, etc.)
-- Carrito de compras con múltiples productos y cantidades
-- Checkout con validación de datos del comprador
-- Pagos integrados: MercadoPago (tarjeta + PSE), contra entrega y coordinación por WhatsApp
-- Generación de link dinámico de WhatsApp con productos, cantidades y total
-- Autenticación con roles `USER` / `ADMIN`
-- Panel de administración: gestión de productos, imágenes y contenido del sitio
-- API REST desacoplada con arquitectura en capas (routes → controllers → services)
-- Compatibilidad producto-dispositivo gestionada completamente en base de datos
-**En desarrollo (Post-MVP):**
-- Emails transaccionales con Resend (confirmación, cambio de estado, recuperación de contraseña)
-- Control de stock con descuento atómico (transacciones Prisma)
-- Panel de pedidos admin con gestión de estados (pending → delivered)
-- SEO dinámico por producto (metadata, Open Graph) y Google Analytics 4
-- 🔗 [frenchiecases.vercel.app](https://frenchiecases.vercel.app)
- 
----
  
 ### 🏪 Crepes & Kaffee — Sistema POS *(sistema privado)*
 > `React` · `Node.js` · `Express` · `PostgreSQL` · `Scrum`
