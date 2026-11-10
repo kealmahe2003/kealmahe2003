@@ -109,13 +109,6 @@ App web educativa con calculadoras financieras, wiki de conceptos y asistente co
 
 ---
 
-## 📊 Actividad en GitHub
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=kealmahe2003&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
 
 ## 📫 Contacto
 
